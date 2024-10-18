@@ -23,10 +23,13 @@ to run start with node index.js and follow the instructions
 This project is licensed under the None license.
 
 ## Contributing
-to contribute, clone application or forward it
+to contribute, clone the application, or forward it
 
 ## Tests
-there are no text instruction
+there is no text instruction
+
+## Video link
+This is the link to the video: [Demo video link](https://youtu.be/q3rCLYiyMPM)
 
 ## Questions
 If you have any questions, you can contact me at [thotrish@gmail.com](mailto:thotrish@gmail.com) or visit my GitHub profile at [trishho](https://github.com/trishho).
